@@ -1,0 +1,10 @@
+google-search-results
+generativeai
+langchain-google-genai
+langchain
+openai 
+langchain-community
+google-generativeai
+python-dotenv
+streamlit
+
